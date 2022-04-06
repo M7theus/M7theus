@@ -1,11 +1,11 @@
 ## Olá! Me chamo Matheus
 
 
-#### - 🔭 Em busca de um emprego
-#### - 🌱 Atualmente cursando **Sistemas de Informação** 
-#### - 📫 Contate-me no email: m7theus_carvalho@protonmail.com  --> <a href="M7theus_Carvalho@protonmail.com" target="_blank"><img height="22px" align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-#### - 💡 Veja meu likedin: <a href="https://www.linkedin.com/in/matheus-fernandes-de-carvalho-185270234/" target="_blank"><img height="22px" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-#### - ⚙️ Minhas atribuições: 
+### - 🔭 Em busca de um emprego
+### - 🌱 Atualmente cursando **Sistemas de Informação** 
+### - 📫 Contate-me no email: m7theus_carvalho@protonmail.com  --> <a href="M7theus_Carvalho@protonmail.com" target="_blank"><img height="22px" align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+### - 💡 Veja meu likedin: <a href="https://www.linkedin.com/in/matheus-fernandes-de-carvalho-185270234/" target="_blank"><img height="22px" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### - ⚙️ Minhas atribuições: 
 <div style="display: inline_block">
 <img  alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" >
 <img  alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +14,7 @@
 <div>
   
 #
-### Estou desenvolvendo um site, acompanhe a evolução: <a href="https://m7theus.github.io/site/" target="_blank"><img height="20px" align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+## Estou desenvolvendo um site, acompanhe a evolução: <a href="https://m7theus.github.io/site/" target="_blank"><img height="20px" align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 #
 
 <div>
