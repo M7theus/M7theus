@@ -2,7 +2,7 @@
 
 
 ### - 🔭 Em busca de um emprego
-### - 🌱 Atualmente cursando **Engenharia de Software** 
+### - 🌱 Atualmente estudando por conta própria 
 ### - 📫 Contate-me no email: m7theus_carvalho@protonmail.com  --> <a href="M7theus_Carvalho@protonmail.com" target="_blank"><img height="22px" align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 ### - 💡 Veja meu likedin: <a href="https://www.linkedin.com/in/matheus-fernandes-de-carvalho-185270234/" target="_blank"><img height="22px" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ### - ⚙️ Minhas atribuições: 
